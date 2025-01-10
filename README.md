@@ -25,3 +25,8 @@ Below is an overview of the Looker Studio dashboard showcasing key metrics for d
 - **Looker Studio**: For creating interactive dashboards and visualizations.
 - **Data Sources**: CSV/Excel files containing delivery and warehouse data.
 - **Google Sheets or BigQuery**: For storing and processing the data.
+
+## Contact
+
+For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
+GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
