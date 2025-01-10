@@ -16,10 +16,10 @@ This repository contains a Looker Studio dashboard project designed to analyze a
 Below is an overview of the Looker Studio dashboard showcasing key metrics for delivery trends and warehouse performance:
 
 ### Dashboard Overview - Monthly Delivery Trends
-*(Add link or embed image of the Looker Studio dashboard here)*
+![Dashboard Overview 1](https://github.com/RaphaelHoudouin/callcenter_analytics_powerbi/blob/main/pbix/visuals/dashboard_overview1.png)  
 
 ### Dashboard Overview - Package Condition Analysis
-*(Add link or embed image of the Looker Studio dashboard here)*
+![Dashboard Overview 1](https://github.com/RaphaelHoudouin/callcenter_analytics_powerbi/blob/main/pbix/visuals/dashboard_overview1.png)  
 
 ## Tools & Technologies
 - **Looker Studio**: For creating interactive dashboards and visualizations.
