@@ -18,11 +18,10 @@ Below is an overview of the Looker Studio dashboard showcasing key metrics for d
 ### Dashboard Overview - Delivery Trends
 ![Dashboard Overview 1](https://github.com/RaphaelHoudouin/delivery-trend-analysis/blob/main/dashboard/visuals/dashboard_overview1.png)  
 
-### Dashboard Overview - Package Condition Analysis
+### Dashboard Overview - Warehouse Analysis
 ![Dashboard Overview 2](https://github.com/RaphaelHoudouin/delivery-trend-analysis/blob/main/dashboard/visuals/dashboard_overview2.png)
 
 ## Tools & Technologies
 - **Looker Studio**: For creating interactive dashboards and visualizations.
 - **Data Sources**: CSV/Excel files containing delivery and warehouse data.
 - **Google Sheets or BigQuery**: For storing and processing the data.
-
