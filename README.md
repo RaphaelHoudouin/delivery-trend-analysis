@@ -16,10 +16,10 @@ This repository contains a Looker Studio dashboard project designed to analyze a
 Below is an overview of the Looker Studio dashboard showcasing key metrics for delivery trends and warehouse performance:
 
 ### Dashboard Overview - Delivery Trends
-![Dashboard Overview 1](https://github.com/RaphaelHoudouin/delivery-trend-analysis/blob/main/dashboard/visuals/dashboard_overview1.png)  
+![Dashboard Overview 1](https://github.com/raphaelhoudouin/delivery-trend-analysis/blob/main/dashboard/visuals/dashboard_overview1.png)  
 
 ### Dashboard Overview - Warehouse Analysis
-![Dashboard Overview 2](https://github.com/RaphaelHoudouin/delivery-trend-analysis/blob/main/dashboard/visuals/dashboard_overview2.png)
+![Dashboard Overview 2](https://github.com/raphaelhoudouin/delivery-trend-analysis/blob/main/dashboard/visuals/dashboard_overview2.png)
 
 ## Tools & Technologies
 - **Looker Studio**: For creating interactive dashboards and visualizations.
@@ -28,5 +28,5 @@ Below is an overview of the Looker Studio dashboard showcasing key metrics for d
 
 ## Contact
 
-For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
-GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
+For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin).
